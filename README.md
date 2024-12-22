@@ -1,15 +1,14 @@
-# Bonjour. I'm Matthias! ✌️ 
+# Bonjour.  
+# I'm Matthias! ✌️ 
 
 I'm a dad of two. I' a husband. I am a pasionate cyclist. And I'm trying my best to destroy the world only as little as necessary (🌱).  
-Plus: I'm a data dude. That's why I'm here:  
+Plus: I'm a data dude. That's why I'm here.  
 
 ## About Me
 
-- I’m currently a lead in data analytics, leading a team of instructors to forge data analysts and analytics enegineers.  
+- I’m currently a lead in data analytics. Together with my teamn of instructors I'm forging data analysts and analytics engineers.  
 - I'm always open to collaborating on interesting projects.
-- You can find me best via:
-- [LinkedIn](https://www.linkedin.com/in/mmotl/)
-
+- You can find me best via [LinkedIn](https://www.linkedin.com/in/mmotl/)
 
 ## Some tech stack:
 
