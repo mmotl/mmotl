@@ -5,11 +5,11 @@ Plus: I'm a data dude. That's why I'm here.
 
 ## About Me
 
-- I’m currently a lead in data analytics. Together with my teamn of instructors I'm forging data analysts and analytics engineers.  
+- I’m currently a lead in data analytics. Together with my team of instructors I'm forging data analysts and analytics engineers.  
 - I've been a market researcher for two decades, specializing in data science.
 - I'm always open to collaborating on interesting projects.
 - You can find me best via [LinkedIn](https://www.linkedin.com/in/mmotl/)
-
+<!--
 ## Some tech stack:
 
 - Programming: mainly in Python
