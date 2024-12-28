@@ -1,9 +1,9 @@
 # Bonjour. I'm Motl! ✌️ 
 
-I'm a dad of two. I'm a husband. I am a pasionate cyclist. And I'm trying my best to destroy the world only as little as necessary (🌱).  
+I'm from Hamburg, Germany. I'm a dad of two. I'm a husband. I am a passionate cyclist. And I'm trying my best to destroy the world only as little as necessary (🌱).  
 Plus: I'm a data dude. That's why I'm here.  
 
-## About Me
+## What?
 
 - I’m currently a lead in data analytics. Together with my team of instructors I'm forging data analysts and analytics engineers.  
 - I've been a market researcher for two decades, specializing in data science.
