@@ -1,4 +1,4 @@
-# Bonjour. I'm Motl! ✌️ 
+# I'm Motl! ✌️ 
 
 I'm from Hamburg, Germany. I'm a dad of two. I'm a husband. I am a passionate cyclist. And I'm trying my best to destroy the world only as little as necessary (🌱).  
 Plus: I'm a data dude. That's why I'm here.  
