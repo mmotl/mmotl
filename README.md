@@ -6,7 +6,7 @@ Plus: I'm a data dude. That's why I'm here.
 ## What?  
 
 - I’m currently working in data analytics and data engineering.  
-- I’ve been a lead in academic data analytics. With a team of instructors, I was forging data analysts in remote analytics bootcamps.  
+- I’ve been a lead in academic data analytics. With a team of instructors, I was forging new data analysts in remote analytics bootcamps.  
 - I've been a market researcher for two decades, specializing in data science.
 - I'm always open to collaborating on interesting projects.
 - You can find me best via [LinkedIn](https://www.linkedin.com/in/mmotl/)
